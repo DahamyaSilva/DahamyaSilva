@@ -4,7 +4,7 @@ About Me
 
 🎓 Software Engineering undergraduate at University of Westminster  
 🌱 Currently learning Spring Boot, Node.js, and React.js  
-💼 Building my skills in full-stack development  
+💼 Building my skills in frontend development  
 🚀 Passionate about creating efficient and user-friendly applications  
 
 
@@ -13,7 +13,7 @@ I'm currently focusing on mastering full-stack development skills and expanding 
 
 Connect With Me
 
-📫 Email: dahamyapsilva@gmail.com
+📫 Email: dahamyapsilva@gmail.com  
 💼 LinkedIn: linkedin.com/in/dahamya-s-0b2118295
 
 Feel free to reach out for collaborations!
