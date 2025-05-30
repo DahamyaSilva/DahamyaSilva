@@ -3,7 +3,7 @@ Hello, I'm Dahamya 👋
 About Me
 
 🎓 Software Engineering undergraduate at University of Westminster  
-🌱 Currently learning Spring Boot, Node.js, and React.js  
+🌱 Currently learning Node.js, and React.js  
 💼 Building my skills in frontend development  
 🚀 Passionate about creating efficient and user-friendly applications  
 
