@@ -10,7 +10,11 @@ About Me
 Current Focus
 I'm currently focusing on mastering full-stack development skills and expanding my knowledge of web technologies.
 
+___
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DahamyaSilva&layout=compact&theme=tokyonight&langs_count=6)
+
+___
 
 Connect With Me
 
