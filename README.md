@@ -7,9 +7,10 @@ About Me
 💼 Building my skills in frontend development  
 🚀 Passionate about creating efficient and user-friendly applications  
 
-
 Current Focus
 I'm currently focusing on mastering full-stack development skills and expanding my knowledge of web technologies.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DahamyaSilva&layout=compact&theme=tokyonight&langs_count=6)
 
 Connect With Me
 
